@@ -10,14 +10,14 @@
 
 横向移动鼠标就可以开始游戏了。
 
-![breakball](\doc\gif\breakball.gif)
+![breakball](/doc/gif/breakball.gif)
 
 ### SuperCoolLight.html
 
 > 一个很适合发呆的时候打开休闲的页面，页面会随着鼠标移动，出现绚丽的烟花
 随便动动鼠标即可
 
-![coollight](.\doc\gif\coollight.gif)
+![coollight](/doc/gif/coollight.gif)
 
 ### pacman.html
 
@@ -25,7 +25,7 @@
 
 使用空格开始游戏，使用键盘上的上下左右调整方向
 
-![pacman](\doc\gif\pacman.gif)
+![pacman](/doc/gif/pacman.gif)
 
 ### flappy.html
 
@@ -33,4 +33,4 @@
 
 合适的实际按键盘上的向上箭头
 
-![flap](\doc\gif\flap.gif)
+![flap](/doc/gif/flap.gif)
